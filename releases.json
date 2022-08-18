@@ -1,0 +1,102 @@
+[
+    {
+        "tag_name": "5.1.8",
+        "name": "Minor Improvements",
+        "body": "Improved GetPlayersVehicleGameObject so that it supports custom vehicles and MP.\r\nObsoleted GetPlayersVehicleEnum\r\nAdded Catch to startup when checking doorstep file",
+        "installer_file": "https://vtolvr-mods.com/download/modloader/5.1.8/",
+        "download_count": 13248,
+        "files": [
+            {
+                "file_name": "winhttp",
+                "file_hash": "f67ed749e83419d4086d6ad9b8428b35",
+                "file_location": "winhttp.dll",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/f67ed749e83419d4086d6ad9b8428b35/",
+                "download_count": 9615
+            },
+            {
+                "file_name": "0Harmony",
+                "file_hash": "e11a2fa00d46a40c485b41126cd7d1c8",
+                "file_location": "VTOLVR_Data/Managed/0Harmony.dll",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/e11a2fa00d46a40c485b41126cd7d1c8/",
+                "download_count": 9382
+            },
+            {
+                "file_name": "Core",
+                "file_hash": "ebf128e0b97f408490bca4c9deeed0cd",
+                "file_location": "VTOLVR_Data/Managed/Core.dll",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/ebf128e0b97f408490bca4c9deeed0cd/",
+                "download_count": 13121
+            },
+            {
+                "file_name": "mscorlib",
+                "file_hash": "25411134436cd0724346f889abed7e8a",
+                "file_location": "VTOLVR_Data/Managed/mscorlib.dll",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/25411134436cd0724346f889abed7e8a/",
+                "download_count": 14093
+            },
+            {
+                "file_name": "SimpleTCP",
+                "file_hash": "9d701d36a400ce08ef67b83c72c73a98",
+                "file_location": "VTOLVR_Data/Managed/SimpleTCP.dll",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/9d701d36a400ce08ef67b83c72c73a98/",
+                "download_count": 9393
+            },
+            {
+                "file_name": "discord-rpc",
+                "file_hash": "5882c37b79bae47a0d090006564edb22",
+                "file_location": "VTOLVR_Data/Plugins/discord-rpc.dll",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/5882c37b79bae47a0d090006564edb22/",
+                "download_count": 9382
+            },
+            {
+                "file_name": "modloader",
+                "file_hash": "7a2f75d71c6d84cab222669d63fdb69b",
+                "file_location": "VTOLVR_ModLoader/modloader.assets",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/7a2f75d71c6d84cab222669d63fdb69b/",
+                "download_count": 11069
+            },
+            {
+                "file_name": "ModLoader",
+                "file_hash": "1dedd093b03afeadd6516086a3dc2a89",
+                "file_location": "VTOLVR_ModLoader/ModLoader.dll",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/1dedd093b03afeadd6516086a3dc2a89/",
+                "download_count": 13600
+            },
+            {
+                "file_name": "ModLoader",
+                "file_hash": "08453900fcf85087797c102fe2518485",
+                "file_location": "VTOLVR_ModLoader/ModLoader.xml",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/08453900fcf85087797c102fe2518485/",
+                "download_count": 13530
+            },
+            {
+                "file_name": "Mono.Cecil",
+                "file_hash": "de69bb29d6a9dfb615a90df3580d63b1",
+                "file_location": "VTOLVR_ModLoader/Mono.Cecil.dll",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/de69bb29d6a9dfb615a90df3580d63b1/",
+                "download_count": 10622
+            },
+            {
+                "file_name": "UnPatcher",
+                "file_hash": "7743f4a43e76c39b3f5b2551f0d86eab",
+                "file_location": "VTOLVR_ModLoader/UnPatcher.exe",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/7743f4a43e76c39b3f5b2551f0d86eab/",
+                "download_count": 13546
+            },
+            {
+                "file_name": "VTOLVR-ModLoader",
+                "file_hash": "66575f22896d076b9cff039cc5814088",
+                "file_location": "VTOLVR_ModLoader/VTOLVR-ModLoader.exe",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/66575f22896d076b9cff039cc5814088/",
+                "download_count": 2659
+            },
+            {
+                "file_name": "VTPatcher",
+                "file_hash": "22b104f261f4f1636cc52aa313ef6533",
+                "file_location": "VTOLVR_ModLoader/VTPatcher.dll",
+                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/22b104f261f4f1636cc52aa313ef6533/",
+                "download_count": 13316
+            }
+        ]
+    }
+]
