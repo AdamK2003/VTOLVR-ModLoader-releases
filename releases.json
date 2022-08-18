@@ -3,7 +3,7 @@
         "tag_name": "5.1.8",
         "name": "Minor Improvements",
         "body": "Improved GetPlayersVehicleGameObject so that it supports custom vehicles and MP.\r\nObsoleted GetPlayersVehicleEnum\r\nAdded Catch to startup when checking doorstep file",
-        "installer_file": "https://vtolvr-mods.com/download/modloader/5.1.8/",
+        "installer_file": "https://github.com/AdamK2003/VTOLVR-ModLoader/releases/download/2022-08-18/win-x64.zip",
         "download_count": 13248,
         "files": [
             {
@@ -22,9 +22,9 @@
             },
             {
                 "file_name": "Core",
-                "file_hash": "ebf128e0b97f408490bca4c9deeed0cd",
+                "file_hash": "2ed2657bbdfefcd8b20a968f4b29cf39",
                 "file_location": "VTOLVR_Data/Managed/Core.dll",
-                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/ebf128e0b97f408490bca4c9deeed0cd/",
+                "file": "https://github.com/AdamK2003/VTOLVR-ModLoader/releases/download/2022-08-18/Core.dll",
                 "download_count": 13121
             },
             {
@@ -57,16 +57,16 @@
             },
             {
                 "file_name": "ModLoader",
-                "file_hash": "1dedd093b03afeadd6516086a3dc2a89",
+                "file_hash": "381784c3707d0f870408ec2daea0db28",
                 "file_location": "VTOLVR_ModLoader/ModLoader.dll",
-                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/1dedd093b03afeadd6516086a3dc2a89/",
+                "file": "https://github.com/AdamK2003/VTOLVR-ModLoader/releases/download/2022-08-18/ModLoader.dll",
                 "download_count": 13600
             },
             {
                 "file_name": "ModLoader",
                 "file_hash": "08453900fcf85087797c102fe2518485",
                 "file_location": "VTOLVR_ModLoader/ModLoader.xml",
-                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/08453900fcf85087797c102fe2518485/",
+                "file": "https://github.com/AdamK2003/VTOLVR-ModLoader/releases/download/2022-08-18/ModLoader.xml",
                 "download_count": 13530
             },
             {
@@ -78,23 +78,23 @@
             },
             {
                 "file_name": "UnPatcher",
-                "file_hash": "7743f4a43e76c39b3f5b2551f0d86eab",
+                "file_hash": "bee0ed96a648985997566a5a57933406",
                 "file_location": "VTOLVR_ModLoader/UnPatcher.exe",
-                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/7743f4a43e76c39b3f5b2551f0d86eab/",
+                "file": "https://github.com/AdamK2003/VTOLVR-ModLoader/releases/download/2022-08-18/UnPatcher.exe",
                 "download_count": 13546
             },
             {
-                "file_name": "VTOLVR-ModLoader",
-                "file_hash": "66575f22896d076b9cff039cc5814088",
-                "file_location": "VTOLVR_ModLoader/VTOLVR-ModLoader.exe",
-                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/66575f22896d076b9cff039cc5814088/",
+                "file_name": "Launcher",
+                "file_hash": "a0681ae4f35eafda1b1b5badf066bcef",
+                "file_location": "VTOLVR_ModLoader/Launcher.exe",
+                "file": "https://github.com/AdamK2003/VTOLVR-ModLoader/releases/download/2022-08-18/Launcher.exe",
                 "download_count": 2659
             },
             {
                 "file_name": "VTPatcher",
-                "file_hash": "22b104f261f4f1636cc52aa313ef6533",
+                "file_hash": "10d3d02a1ed4feb70d017c3f4c88a178",
                 "file_location": "VTOLVR_ModLoader/VTPatcher.dll",
-                "file": "https://vtolvr-mods.com/download/modloader/5.1.8/22b104f261f4f1636cc52aa313ef6533/",
+                "file": "https://github.com/AdamK2003/VTOLVR-ModLoader/releases/download/2022-08-18/VTPatcher.dll",
                 "download_count": 13316
             }
         ]
